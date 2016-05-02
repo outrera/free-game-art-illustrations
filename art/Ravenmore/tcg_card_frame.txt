@@ -1,0 +1,14 @@
+Author: Ravenmore (http://dycha.net/)
+License: CC-BY-SA, GPL3, GPL2
+Origin: http://opengameart.org/content/tcg-card-frame
+
+I commissioned this card frame from Ravenmore for my game, Brimstone RPG. It should work great for both printed games and digital ones; an area for print bleed is built in.
+
+The PSD is the original source from Ravenmore and is layered to create several permutations of the card. The XCF is my revision of the original that simplifies the layer structure for the artistically-challenged. :)
+
+The preview image uses Justin Nichol's excellent Wyvern illustration.
+
+Commercial licenses of this piece are available. Contact me (pennomi) if you are interested.
+
+Copyright/Attribution Notice: 
+Place a link to Ravenmore's Portfolio somewhere prominent: http://dycha.net Also, if you use this, leave a comment below! We love to follow projects that use our art.
