@@ -1,0 +1,10 @@
+Author: Joakim Persson 'JAP' (http://opengameart.org/users/jap)
+License: CC-BY-SA, GPL2, GPL3
+Origin: http://opengameart.org/content/fortress-backgroundstoryboard-image
+
+Background/storyboard pictures in a oil painting like style.
+1 Fortress
+2 Gate in forest
+3 Guardtower by the sea
+4 Shoreline
+5 Night in the desert
