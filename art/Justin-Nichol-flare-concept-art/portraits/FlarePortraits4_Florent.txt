@@ -1,0 +1,8 @@
+Author: Justin Nichol (http://freeforall.cc)
+License: CC-BY-SA 3.0, GPL 2.0, GPL 3.0
+Origin: https://opengameart.org/content/flare-portrait-pack-number-four
+
+This is the fourth FLARE portrait pack featuring six new portraits which will be included in the FLARE Engine.
+
+These were made as part the creative commons portrait marathon;
+http://www.kickstarter.com/projects/1318318905/creative-commons-fantasy-portrait-marathon

@@ -1,0 +1,10 @@
+Author: Justin Nichol (http://freeforall.cc)
+License: CC-BY-SA 3.0, GPL 2.0, GPL 3.0
+Origin: https://opengameart.org/content/flare-portrait-pack-number-one
+
+This is the first pack of portraits for the Free/Libre Action Roleplaying Engine. They are the six heros that can be chosen at character creation, 3 male, 3 female.
+
+There are many more finished than this, but these have full color and final touches added, and are being placed into the current game demo. Stay tuned for many more portrait packs in the future.
+
+These were made as part the creative commons portrait marathon;
+http://www.kickstarter.com/projects/1318318905/creative-commons-fantasy-portrait-marathon

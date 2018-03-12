@@ -1,0 +1,5 @@
+Author: Justin Nichol
+License: CC-BY-SA 3.0, GPL 2.0, GPL 3.0
+Origin: https://opengameart.org/content/oracle-portrait
+
+This is a portrait I did for Wesnoth that never ended up getting used. Maybe someone can use it for something.
