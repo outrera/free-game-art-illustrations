@@ -1,5 +1,0 @@
-Author: Bart Kelsey (http://opengameart.org/users/bart)
-License: Public Domain (CC0)
-Origin: http://opengameart.org/content/moon-overlay-texture
-
-This is a transparent png of the moon.  It's completely white, with an alpha value, so you should be able to overlay it on top of any color of sky and have it look good.
