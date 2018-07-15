@@ -1,0 +1,12 @@
+author: Beast
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/73-patterns
+
+73 symetrical patterns.
+
+Done using the symetrical paint tool of Krita.
+
+All 1000x1000 px black on white PNGs.
+
+No need to credit if you use these.
+

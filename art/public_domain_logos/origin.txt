@@ -1,0 +1,13 @@
+author: OwlishMedia
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/public-domain-alphas
+
+These are not my original creations, but a curation of a whole lot of clipart from OpenClipart.org that I've converted to black and white alphas at 2048x2048px, which can be used in art software for various purposes. I will be using them in Substance Painter.
+
+All clip art on OpenClipart is public domain: https://openclipart.org/share
+
+I've also included a few vintage images I've converted to alphas from the British Library Flickr, which is also full of public domain images scanned from books: https://www.flickr.com/photos/britishlibrary
+
+Can also be used for particle effects
+
+ Contained within: 181 images, 2048x2048, PNG format

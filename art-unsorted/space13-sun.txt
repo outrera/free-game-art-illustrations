@@ -1,0 +1,17 @@
+Author: NASA, LFA
+License: Public Domain
+Origin: https://opengameart.org/content/the-sun
+
+This is a composite I made out of data from the Solar Dynamics Observatory of today's sun (6/22/2010).
+
+Versions are provided at 2048 x 2048
+
+Aside from the .png versions, I included a .psd that contains the raw images from the SDO so you can make your own composite.  I left the serial codes of the images in, in case someone wanted to add more layers they could find more matching sun images.
+
+The source images are from NASA so they are public domain.
+
+You can use my composite as public domain as well.  enjoy!   ^_^
+
+ 
+
+Final credit for these images goes to NASA and the SDO team, since they launched a satellite into space to get these the data...  I just spent a 1 hour on the composite of their data to make it prettier lol. - LFA
