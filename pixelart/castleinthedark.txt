@@ -1,0 +1,7 @@
+author: tamashihoshi
+license: CC-BY 3.0
+source: https://opengameart.org/content/castle-in-the-dark
+
+It seems every pixel artist makes at least once a picture of a castle in the dark.
+
+Or maybe not. I do not know.
