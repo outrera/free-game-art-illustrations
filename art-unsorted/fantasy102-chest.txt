@@ -1,0 +1,10 @@
+author: Tiny Speck (http://www.glitchthegame.com/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/treasure-chest-2
+
+A mash up of some graphics from the Glitch assets by Tiny Speck.
+
+ The treasure chest I found in the collection had a pig head on the lock which probably doesn't fit the theme of a lot of games, so I removed it and made a normal padlock the main feature of the lock. Also made the end of the chain link actually appear to go around the padlock.
+
+Copyright/Attribution Notice: 
+You do not have to credit anybody, but if you do please credit Tiny Speck as the original creators of the art: http://www.glitchthegame.com/ "All files are provided by Tiny Speck under the Creative Commons CC0 1.0 Universal License. This is a broadly permissive "No Rights Reserved" license — you may do what you please with what we've provided. There is no obligation to link or credit the works, but if you do, please link to glitchthegame.com, our permanent "retirement" site for the game and these assets. Of course, links/shoutouts to Tiny Speck (tinyspeck.com) and/or Slack (slack.com) are appreciated."
