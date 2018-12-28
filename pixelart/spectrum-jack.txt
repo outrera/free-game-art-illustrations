@@ -1,0 +1,5 @@
+author: helpcomputer (http://www.indiedb.com/members/helpcomputer0)
+license: Public Domain (CC0)
+source: https://opengameart.org/content/spectrum-jack
+
+These are graphics I drew for a halloween-themed Bombjack ripoff using Spectrum colours.

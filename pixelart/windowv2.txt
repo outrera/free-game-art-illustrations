@@ -1,0 +1,8 @@
+author: Tyler Blair 'tiilerdye'
+license: CC-BY 3.0
+source: https://opengameart.org/content/scenic-window-2
+
+Color render of my previous work "Scenic Window". This version is significantly smaller in size than the previous version.
+
+Copyright/Attribution Notice: 
+Tiilerdye Frosted Fears Gaming (credit not req'd).

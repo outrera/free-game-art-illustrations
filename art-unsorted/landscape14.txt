@@ -1,0 +1,9 @@
+Author: KokoroReflections (http://kokororeflections.com)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/three-sky-backgrounds-day-sunsetsunrise-night
+
+Non-looping; let me know if you need a scrolling parallax version. You'll probably need to scale these down before you can use them.  :)
+
+Includes day, sunset/sunrise, and night sky scenes.  Preview them here: https://kokororeflections.com/free-parallax-backgrounds-games-sky/
+
+More free stuff here: https://kokororeflections.com/category/free-stuff/
